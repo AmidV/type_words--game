@@ -1,4 +1,4 @@
-## Game: Typing Words 
+## Game: Type Words 
 
 I used React.js for functionality of the game and CSS for some styling.
 
